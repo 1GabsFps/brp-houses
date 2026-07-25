@@ -189,13 +189,6 @@ flowchart TD
 
 ---
 
-## 🛡️ Segurança da Informação
-
-> [!IMPORTANT]
-> NUNCA envie para repositórios públicos arquivos como `.env`, bancos de dados reais (`bot.db`), senhas ou chaves privadas SSH. Certifique-se de manter o arquivo `.gitignore` configurado.
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](./LICENSE). Veja o arquivo de licença para mais detalhes.
