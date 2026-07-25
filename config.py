@@ -51,11 +51,14 @@ ITEM_EMOJIS = {
     "anel de diamante": "💠",
     "colar de rubi": "🔴",
     "anel de rubi": "🔺",
+    "queijo": "🧀",
 }
 DEFAULT_ITEM_EMOJI = "📦"
 
 ALIASES = {
-    # leite / recipientes
+    # comida / leite / recipientes
+    "queijo": "queijo",
+    "queijos": "queijo",
     "caxa de leite": "caixa de leite",
     "caixa de leit": "caixa de leite",
     "caixas de leite": "caixa de leite",
